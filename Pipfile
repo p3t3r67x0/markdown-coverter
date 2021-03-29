@@ -38,7 +38,7 @@ ipython_genutils = "==0.2.0"
 Jinja2 = "==2.11.2"
 MarkupSafe = "==1.1.1"
 Pillow = "==7.1.2"
-Pygments = "==2.6.1"
+Pygments = "==2.7.4"
 PyGObject = "==3.36.0"
 
 [requires]
